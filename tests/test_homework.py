@@ -1,6 +1,5 @@
 # flake8: noqa: E501
 """Autograding script."""
-
 import gzip
 import json
 import os
